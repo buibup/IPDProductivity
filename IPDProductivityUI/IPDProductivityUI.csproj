@@ -62,12 +62,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Comman\Calculate.cs" />
-    <Compile Include="Comman\Constants.cs" />
-    <Compile Include="Comman\GetData.cs" />
-    <Compile Include="Comman\Helper.cs" />
-    <Compile Include="Comman\Data.cs" />
-    <Compile Include="Comman\QueryString.cs" />
+    <Compile Include="Common\Calculate.cs" />
+    <Compile Include="Common\Constants.cs" />
+    <Compile Include="Common\GetData.cs" />
+    <Compile Include="Common\Helper.cs" />
+    <Compile Include="Common\Data.cs" />
+    <Compile Include="Common\QueryString.cs" />
     <Compile Include="DA\InterSystems\InterSystemsDA.cs" />
     <Compile Include="DA\SqlServer\SqlServerDA.cs" />
     <Compile Include="MainFrm.cs">
